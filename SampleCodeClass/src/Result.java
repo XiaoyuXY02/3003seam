@@ -32,7 +32,7 @@ public class Result {
 	
     void myTest ()
     {
-        
+        return;
     }
 
 }
