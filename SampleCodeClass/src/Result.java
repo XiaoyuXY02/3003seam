@@ -30,9 +30,9 @@ public class Result {
      		return;
 	}
 	
-    void myTest ()
+    void tanxinyue ()
     {
-        return;
+        System.out.println("Test.ing...");
     }
 
 }
